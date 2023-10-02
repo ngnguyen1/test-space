@@ -1,0 +1,17 @@
+objectType: docLeaf
+id: simple-markdown-two
+access: public
+status: active
+version: "1.0.0"
+authors:
+  - alchen@silabs.com
+contentType: markdown
+title: "Simple Markdown Leaf"
+description: "Snapshot"
+sourceDir: ./simple-markdown-two
+menu:
+  items:
+    - Index: ./index.md
+    - Content Page: ./contentpage.md
+    - Page 2: ./page.md
+
